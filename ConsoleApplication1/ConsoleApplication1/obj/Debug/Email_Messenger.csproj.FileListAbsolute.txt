@@ -1,0 +1,12 @@
+C:\Code Projects\C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Code Projects\C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Code Projects\C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Code Projects\C#\ConsoleApplication1\ConsoleApplication1\obj\Debug\Email_Messenger.csprojResolveAssemblyReference.cache
+C:\Code Projects\C#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Code Projects\C#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Code Projects\C#\Email Messanger\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Code Projects\C#\Email Messanger\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Code Projects\C#\Email Messanger\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Code Projects\C#\Email Messanger\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Code Projects\C#\Email Messanger\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Code Projects\C#\Email Messanger\ConsoleApplication1\ConsoleApplication1\obj\Debug\Email_Messenger.csprojResolveAssemblyReference.cache
